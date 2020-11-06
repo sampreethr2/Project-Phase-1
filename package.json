@@ -1,0 +1,25 @@
+{
+  "name": "project-phase-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myscript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sampreethr2/Project-Phase-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sampreethr2/Project-Phase-1/issues"
+  },
+  "homepage": "https://github.com/sampreethr2/Project-Phase-1#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "lite-server": "^2.5.4"
+  }
+}
